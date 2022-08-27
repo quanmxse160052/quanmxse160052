@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Quân
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning software engineering at FPT University
-- 💞️ I’m looking to collaborate on ...
 - 📫 quanmxse160052@fpt.edu.vn
 
 <!---
